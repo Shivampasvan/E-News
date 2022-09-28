@@ -4,7 +4,7 @@ body{
 #navbar{
     display: flex;
     background-color: rgb(62,62,62);
-    height: 70px;
+    height: 60px;
     justify-content: space-between;
     justify-content: center;
     align-items: center;
@@ -12,6 +12,7 @@ body{
 img{
     width: 45%;
     margin-left: 50px;
+    margin-bottom: -15px;
 }
 #div2{
     display: flex;
@@ -20,6 +21,7 @@ img{
     font-size: 15px;
     font-weight: 500;
     margin-right: 15px;
+    margin-bottom: -15px;
 }
 a{
     color:whitesmoke;
