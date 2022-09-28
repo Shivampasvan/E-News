@@ -1,0 +1,28 @@
+body{
+    margin: 0%;
+}
+#navbar{
+    display: flex;
+    background-color: rgb(62,62,62);
+    height: 70px;
+    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    width: 45%;
+    margin-left: 50px;
+}
+#div2{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    margin-right: 15px;
+}
+a{
+    color:whitesmoke;
+    text-decoration: none;
+    margin: 10px;
+}
