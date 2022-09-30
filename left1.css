@@ -1,0 +1,35 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#head{
+    width: 75%;
+    margin-left: 45px;
+}
+#head>h1{
+    font-size: 42px;
+}
+#head>p{
+    margin-top: -21px;
+    font-size: 22px;
+}
+#container{
+    display: grid;
+    gap: 20px;
+}
+
+#mid{
+    width: 50%;
+    margin: auto;
+}
+#mid>img{
+    width: 100%;
+}
+.child-img{
+    border: 1px solid silver;
+    border-radius: 10px;
+}
+#mid>p{
+    font-size: 18px;
+    font-weight: 400;
+    text-align: justify;
+}
