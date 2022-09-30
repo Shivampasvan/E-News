@@ -23,8 +23,17 @@ body{
     margin-right: 15px;
     margin-bottom: -15px;
 }
-a{
+#div2>a{
     color:whitesmoke;
     text-decoration: none;
     margin: 10px;
+}
+a{
+    text-decoration: none;
+}
+a>p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    color: black;
 }
