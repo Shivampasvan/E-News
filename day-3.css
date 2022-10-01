@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(223, 223, 223);
+    background-color: rgb(234,234,234);
 }
 #main-container img{
     border-radius: 3px;
@@ -137,7 +137,7 @@ iframe{
     color: white;     
 }
 .pic-text>img{
-    filter: brightness(60%);
+    filter: brightness(70%);
     height: 100%;
 }
 .pic-text>h4{
